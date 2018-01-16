@@ -7,7 +7,6 @@ import java.util.*;
  * 3) f = (1 - w)g + wh, where w = 0.75
  * as the Heuristic function.
  * Where g() function is the path length from the source, h() function is the direct distance to the destination.
- * @author Jinglin Li (jxl163530, 2021323767)
  *
  */
 public class Data {
